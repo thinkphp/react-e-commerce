@@ -1,10 +1,10 @@
 # E-Commerce Website
 
-A Ecommerce Website made with React.js Framework.
+A E-Commerce Website made with React.js Library
 
 
 ## Demo
-
+https://thinkphp.github.io/react-e-commerce/
 
 
 ## Features
